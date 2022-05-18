@@ -25,7 +25,7 @@
 ![Storybook](https://camo.githubusercontent.com/710634f2b02dd538e5aaf212ce1ad01d861922b2911017282dff7d7666c63c70/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6174657269616c5f55492d3238326333343f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6174657269616c5f64657369676e)
   </div>
 
-<div>
+<div align = 'center'>
 Follow Me:
   
   <div align = "center">
@@ -37,9 +37,9 @@ Follow Me:
   
    
   
-  <div align = 'center'>
-    <g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji>How to reach me:                 andruavanshuls@gmail.com
-  </div>
+  <p align = 'center'>
+    <g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji>How to reach me:                 <p text-decoration: underline> andruavanshuls@gmail.com </p>
+  </p>
 </div>
 
 
