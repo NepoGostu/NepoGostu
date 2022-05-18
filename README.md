@@ -1,8 +1,7 @@
-<h1 align="center">Hi there 👋 </h1>
-<h1 align="center">I'am begginer frontend developer</h1>
-<h3 align="center">![Header](https://github.com/NepoGostu/NepoGostu/blob/main/assets/zuev_andrey.gif)</h3>
-<img src="https://github.com/NepoGostu/NepoGostu/blob/main/assets/zuev_andrey.gif"/>
-
+<h1 align = "center">Hi there 👋 </h1>
+<h1 align = "center">I'am begginer frontend developer</h1>
+<img align = "center" src="https://github.com/NepoGostu/NepoGostu/blob/main/assets/zuev_andrey.gif"/>
+<h2 align = "center"><a href = "https://camo.githubusercontent.com/d184adf1b00bdb0bcbf70e9f277113b7d3c62859228f211ffa5b2cfda8cf6ae8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3238326333343f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374"/></h2>
 ![React](https://camo.githubusercontent.com/d184adf1b00bdb0bcbf70e9f277113b7d3c62859228f211ffa5b2cfda8cf6ae8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3238326333343f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374)
 ![Redux](https://camo.githubusercontent.com/a4beb7dee85998ce6cf268d2e2f3ecf5c88037a2513af19b7060dcf23789edb7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656475782d3238326333343f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d373634414243)
 ![TS](https://camo.githubusercontent.com/886d90cd5eb866ec52b5b73653241a2b4d787e34e9756ce77cc8a36c881d045d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3238326333343f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065536372697074)
