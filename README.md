@@ -1,5 +1,5 @@
 <h1 align = "center">Hi there 👋 </br>
-I'am begginer frontend developer</h1>
+I'am frontend developer</h1>
 <h2 align = "center"><img align = "center" src= "https://github.com/NepoGostu/NepoGostu/blob/main/assets/zuev_andrey.gif" />
 </h2>
 
